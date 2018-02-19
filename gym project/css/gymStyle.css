@@ -1,0 +1,28 @@
+body{
+/*    this code is used for insert background image*/
+    background: url(../image/gym1.png)
+        no-repeat center center fixed;
+    font-family: 'Shrikhand', cursive;
+    background-size: cover;
+}
+div {
+    background-color: #CE571D;
+    width: 50%;
+    text-align: center;
+    margin: 100px auto;
+    border-radius: 25px;
+    opacity: 0.7;
+}
+button {
+    background: rgba(50,50,50);
+    padding: 0 10px 0 20px;
+    color: black;
+    font-size: 2em;
+    border-radius: 10px;
+}
+h1 {
+    font-size: 4em;
+}
+p {
+    font-size: 1.8em;
+}
